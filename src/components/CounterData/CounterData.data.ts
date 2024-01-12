@@ -1,14 +1,14 @@
 export const dataCounterData = [
   {
     id: 1,
-    startNumber: 500,
+    startNumber: 120,
     endNumber: 3800,
     text: "Usuario activos",
   },
-  { id: 2, startNumber: 0, endNumber: 230, text: "Empleados" },
+  { id: 2, startNumber: 0, endNumber: 120, text: "Empleados" },
   {
     id: 3,
-    startNumber: 600,
+    startNumber: 100,
     endNumber: 1800,
     text: "Millones invertidos",
   },

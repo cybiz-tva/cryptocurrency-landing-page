@@ -5,7 +5,7 @@ import { Reveal } from "../Reveal";
 
 export function Footer() {
   return (
-    <div className="max-w-5xl p-6 mx-auto mt-10 md:-mt-40">
+    <div className="max-w-5xl px-8 py-5 mx-auto mt-16">
       <div className="justify-between md:flex">
         <div>
           <Image

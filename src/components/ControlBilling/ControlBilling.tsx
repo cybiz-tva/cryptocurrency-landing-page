@@ -12,9 +12,9 @@ export function ControlBilling() {
           <Image
             src="/assets/transactions.webp"
             alt="Control Business"
-            width={320}
-            height={300}
-            className="h-auto w-auto"
+            width={300}
+            height={100}
+            className="w-full h-auto md:w-10/12"
           />
         </MotionTransition>
         <div className="flex flex-col justify-center">
