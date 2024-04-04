@@ -15,9 +15,9 @@ export function BestBusiness() {
           <Reveal>
             <h2 className="text-5xl font-semibold">
               <span className="block degradedBlue bg-blueLight">
-                Tranforma tu experiencia
+                Built on Solana
               </span>
-              con blockchain.
+               Blockchain.
             </h2>
           </Reveal>
           <Reveal>
