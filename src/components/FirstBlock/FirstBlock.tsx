@@ -14,11 +14,11 @@ export function FirstBlock() {
         <div>
           <Reveal>
             <h1 className="text-5xl font-semibold">
-              EL nuevo{" "}
+              Rafee Token{" "}
               <span className="block degradedBlue bg-blueLight">
-                banco digital
+                digital assest
               </span>{" "}
-              para todos.
+              to invest in.
             </h1>
           </Reveal>
 
