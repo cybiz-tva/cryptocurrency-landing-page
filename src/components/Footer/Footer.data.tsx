@@ -1,5 +1,5 @@
 import {
-  RiFacebookCircleFill,
+  RiTelegramCircleFill,
   RiInstagramLine,
   RiLinkedinBoxFill,
   RiTwitterXFill,
@@ -94,7 +94,7 @@ export const footerSocialNetworks = [
   },
   {
     id: 2,
-    icon: <RiFacebookCircleFill />,
+    icon: <RiTelegramCircleFill />,
     link: "#",
   },
   {
