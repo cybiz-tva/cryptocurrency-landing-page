@@ -17,7 +17,7 @@ export function Footer() {
           />
           <Reveal>
             <p className="mt-5 text-primaryDark max-w-[250px]">
-              Una nueva forma de hacer pagos de forma sencilla
+             The next digital Currency Revolution
             </p>
           </Reveal>
         </div>
