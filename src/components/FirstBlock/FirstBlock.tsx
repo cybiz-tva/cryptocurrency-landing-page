@@ -24,7 +24,7 @@ export function FirstBlock() {
 
           <Reveal>
             <p className="max-w-md my-5">
-              Contract Address : 6yXVNo9Z6YFi7YqAbErgQggJ7tJXEfq <br> Rp8rKd1h3XsKx </br>
+              Contract Address : 6yXVNo9Z6YFi7YqAbErgQggJ7tJXEfq Rp8rKd1h3XsKx 
             </p>
           </Reveal>
 
