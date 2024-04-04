@@ -5,12 +5,11 @@
 	</defs>
 	<style>
 		tspan { white-space:pre } 
-		.t0 { font-size: 17px;fill: #ffffff;font-weight: bold;font-family: "Horizon" } 
-		.t1 { font-size: 17px;fill: #ffffff;font-weight: 400;font-family: "Poppins-Regular", "Poppins" } 
+		.t0 { font-size: 17px;fill: #ffffff;font-weight: 700;font-family: "Poppins-Bold", "Poppins" } 
 	</style>
 	<use id="Bitmap (2)" href="#img1" transform="matrix(.175,0,0,.175,0,0)"/>
-	<text id=" rafee" style="transform: matrix(1.156,0,0,1.156,41.844,29.717)" >
-		<tspan x="0" y="0" class="t0"> </tspan><tspan  y="0" class="t1">r</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">f</tspan><tspan  y="0" class="t1">e</tspan><tspan  y="0" class="t1">e</tspan><tspan  y="0" class="t1">
+	<text id=" Rafee" style="transform: matrix(1.156,0,0,1.156,43.844,29.717)" >
+		<tspan x="0" y="0" class="t0"> </tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">f</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">
 </tspan>
 	</text>
 </svg>
