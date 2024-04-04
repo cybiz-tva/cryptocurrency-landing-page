@@ -8,9 +8,9 @@ const popinsFont = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Cryptix | Conectando el Futuro de las Finanzas Digitales",
+  title: "Rafee | Token sale landing page",
   description:
-    "Descubre un nuevo mundo de posibilidades financieras con Cryptix. Únete a miles de usuarios que ya están experimentando la libertad financiera en el mundo digital.",
+    "Digital Assest RAFEE token landing page.",
 };
 
 export default function RootLayout({
