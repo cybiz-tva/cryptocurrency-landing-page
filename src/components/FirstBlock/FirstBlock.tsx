@@ -36,7 +36,7 @@ export function FirstBlock() {
                 href="#clients"
                 className="px-6 py-3 rounded-md bg-blueRadial"
               >
-                Empieza ahora
+                Apply PreSale
               </Link>
             </div>
           </Reveal>

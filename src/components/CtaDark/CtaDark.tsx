@@ -21,7 +21,7 @@ export function CtaDark() {
           </div>
 
           <Link href="#" className="px-4 py-3 mx-auto rounded-md bg-blueRadial">
-            <Reveal>Empieza ahora</Reveal>
+            <Reveal>Read Whitepaper</Reveal>
           </Link>
         </div>
       </div>

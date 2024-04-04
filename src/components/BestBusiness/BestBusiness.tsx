@@ -34,7 +34,7 @@ export function BestBusiness() {
                 href={"#plans"}
                 className="px-6 py-3 rounded-md bg-blueRadial"
               >
-                Elige tu plan
+                Apply Now
               </Link>
             </div>
           </Reveal>
