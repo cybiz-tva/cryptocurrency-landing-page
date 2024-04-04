@@ -24,9 +24,7 @@ export function FirstBlock() {
 
           <Reveal>
             <p className="max-w-md my-5">
-              Exploramos características clave y aspectos revolucionarios para
-              garantizar una experiencia financiera digital sin igual basados en
-              tecnología blockchain.
+              Contract Address : 6yXVNo9Z6YFi7YqAbErgQggJ7tJXEfqRp8rKd1h3XsKx
             </p>
           </Reveal>
 
