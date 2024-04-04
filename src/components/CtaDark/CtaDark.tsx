@@ -9,13 +9,12 @@ export function CtaDark() {
           <div className="my-8">
             <Reveal>
               <h3 className="text-3xl font-bold">
-                Ven a probar nuestros servicios
+                The plan of action
               </h3>
             </Reveal>
             <Reveal>
               <p>
-                Obtén todo lo necesario para expandir tu negocio a nivel global.
-                ¡Únete a la evolución financiera digital!
+                Find out why and how rafee token will be the next digital assest revolution you should participate. 
               </p>
             </Reveal>
           </div>
