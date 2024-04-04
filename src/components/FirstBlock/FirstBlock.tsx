@@ -31,7 +31,7 @@ export function FirstBlock() {
           <Reveal>
             <div className="my-8">
               <Link
-                href="#clients"
+                href="https://solscan.io/token/6yXVNo9Z6YFi7YqAbErgQggJ7tJXEfqRp8rKd1h3XsKx?cluster=devnet"
                 className="px-6 py-3 rounded-md bg-blueRadial"
               >
                 Apply PreSale
