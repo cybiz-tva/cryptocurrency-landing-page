@@ -14,17 +14,17 @@ export function FirstBlock() {
         <div>
           <Reveal>
             <h1 className="text-5xl font-semibold">
-              Rafee Token{" "}
+              New Era in{" "}
               <span className="block degradedBlue bg-blueLight">
-                digital assest
+                Ecommerce
               </span>{" "}
-              to invest in.
+              with RAFEE!
             </h1>
           </Reveal>
 
           <Reveal>
             <p className="max-w-md my-5">
-              Contract Address : 6yXVNo9Z6YFi7YqAbErgQggJ7tJXEfqRp8rKd1h3XsKx 
+            A vision to revolutionize e-commerce by integrating cryptocurrency and real quality products.
             </p>
           </Reveal>
 
