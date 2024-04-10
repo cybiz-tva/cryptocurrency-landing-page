@@ -21,17 +21,16 @@ export function ControlBilling() {
           <Reveal>
             <h2 className="text-5xl font-semibold">
               <span className="block degradedBlue bg-blueLight">
-                Controla fácilmente
+                Our visions and
               </span>
-              tus activos
+              Tokenomics
             </h2>
           </Reveal>
           <Reveal>
             <p className="max-w-md mt-10 text-pretty">
-              Descubre cómo nuestra plataforma simplifica la gestión de tus
-              transacciones digitales. Desde pagos instantáneos hasta
-              inversiones eficientes, pon el control en tus manos para optimizar
-              tu flujo financiero.
+            Our tokenomics is designed to create a vibrant and sustainable 
+            ecosystem where RAFEE tokens act as catalysts for innovation and growth.
+             Join us as we redefine e-commerce with cryptocurrency and unlock new possibilities for global commerce.
             </p>
           </Reveal>
         </div>
