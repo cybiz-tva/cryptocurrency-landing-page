@@ -22,10 +22,9 @@ export function BestBusiness() {
           </Reveal>
           <Reveal>
             <p className="max-w-md mt-10">
-              Encontrar la plataforma ideal es clave para potenciar tu vida
-              financiera. Descubre cómo puedes construir crédito en el mundo
-              digital, aprovechar recompensas exclusivas y optimizar tus ahorros
-              con nuestra innovadora plataforma.
+            Why should you invest in RAFEE token? We are not just another cryptocurrency. 
+            Our token is backed by real value and innovation. Here's why:
+
             </p>
           </Reveal>
           <Reveal>
