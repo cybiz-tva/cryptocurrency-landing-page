@@ -16,9 +16,9 @@ export function ChooseYourCards() {
       <div className="block max-w-5xl mx-auto md:grid md:grid-cols-2">
         <Reveal>
           <h2 className="text-5xl font-semibold">
-            Our futuristic Roadmap for
+            Our futuristic Roadmap 
             <span className="block degradedBlue bg-blueLight">
-            future of e-commerce and cryptocurrency integration
+            for future of e-Com and Crypto integration
             </span>
           </h2>
         </Reveal>
