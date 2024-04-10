@@ -16,9 +16,9 @@ export function ChooseYourCards() {
       <div className="block max-w-5xl mx-auto md:grid md:grid-cols-2">
         <Reveal>
           <h2 className="text-5xl font-semibold">
-            Escoge la tarjeta que
+            Our futuristic Roadmap for
             <span className="block degradedBlue bg-blueLight">
-              se adapta a tus necesidades
+            future of e-commerce and cryptocurrency integration
             </span>
           </h2>
         </Reveal>
