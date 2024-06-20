@@ -20,6 +20,6 @@ export const dataFeaturesBusiness: BestBusinessData = [
     icon: "send",
     title: "Transparency and Authenticity",
     description:
-      "Exclusive Discounts and Promotions: Holders of RAFEE tokens enjoy special discounts and promotions when making purchases on our platform, encouraging adoption and usage of the token.",
+      "Exclusive Discounts and Promotions: Holders of TIME tokens enjoy special discounts and promotions when making purchases on our platform, encouraging adoption and usage of the token.",
   },
 ];

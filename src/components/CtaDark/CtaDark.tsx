@@ -14,7 +14,7 @@ export function CtaDark() {
             </Reveal>
             <Reveal>
               <p>
-                Find out why and how rafee token will be the next digital assest revolution you should participate. 
+                Find out why and how TimeTap token will be the next digital assest revolution you should participate. 
               </p>
             </Reveal>
           </div>

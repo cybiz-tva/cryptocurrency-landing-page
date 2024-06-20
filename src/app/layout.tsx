@@ -8,9 +8,9 @@ const popinsFont = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Rafee | Token sale landing page",
+  title: "TimeTap | Token sale landing page",
   description:
-    "Digital Assest RAFEE token landing page.",
+    "Most profitable crypto watch mining platform.",
 };
 
 export default function RootLayout({

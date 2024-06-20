@@ -29,7 +29,7 @@ export function ControlBilling() {
           <Reveal>
             <p className="max-w-md mt-10 text-pretty">
             Our tokenomics is designed to create a vibrant and sustainable 
-            ecosystem where RAFEE tokens act as catalysts for innovation and growth.
+            ecosystem where TIME tokens act as catalysts for innovation and growth.
              Join us as we redefine e-commerce with cryptocurrency and unlock new possibilities for global commerce.
             </p>
           </Reveal>

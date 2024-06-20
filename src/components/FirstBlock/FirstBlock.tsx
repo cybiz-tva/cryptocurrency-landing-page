@@ -18,7 +18,7 @@ export function FirstBlock() {
               <span className="block degradedBlue bg-blueLight">
                 Ecommerce
               </span>{" "}
-              with RAFEE!
+              with TIME!
             </h1>
           </Reveal>
 

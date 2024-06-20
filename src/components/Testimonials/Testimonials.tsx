@@ -11,7 +11,7 @@ export function Testimonials() {
       <div className="grid max-w-5xl gap-8 mx-auto my-6 md:grid-cols-2">
         <Reveal>
           <h2 className="text-5xl mb-5 font-semibold">
-            Hear from the RAFEE beleivers
+            Hear from the TimeTap beleivers
           </h2>
         </Reveal>
       </div>

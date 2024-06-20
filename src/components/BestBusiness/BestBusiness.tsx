@@ -22,7 +22,7 @@ export function BestBusiness() {
           </Reveal>
           <Reveal>
             <p className="max-w-md mt-10">
-            Why should you invest in RAFEE token? We are not just another cryptocurrency. 
+            Why should you invest in TIME token? We are not just another cryptocurrency. 
             Our token is backed by real value and innovation. Here is why </p>
           </Reveal>
           <Reveal>

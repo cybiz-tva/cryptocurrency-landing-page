@@ -43,7 +43,7 @@ export function Footer() {
 
       <div className="items-center justify-between md:flex">
         <div className="my-3">
-          <Reveal>2024 Rafee. Designed by Cybiz.</Reveal>
+          <Reveal>2024 TimeTap. Designed by Cybiz.</Reveal>
         </div>
         <div className="flex gap-5">
           {footerSocialNetworks.map(({ id, icon, link }) => (
