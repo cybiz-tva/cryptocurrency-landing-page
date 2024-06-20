@@ -6,20 +6,20 @@ export const dataFeaturesBusiness: BestBusinessData = [
     icon: "star",
     title: "Decentralization and Trust",
     description:
-      " We have developed groundbreaking living technologies, including a zero-energy body calibration device. This innovation facilitates mobility and improves quality of life by helping individuals with physical illnesses and the elderly.",
+      " We have developed groundbreaking living technologies, including a zero-emission mining smart device. This innovation facilitates mobility and improves quality of mining by helping individuals with their smart watches to make actual return on their investments.",
   },
   {
     id: 2,
     icon: "shield",
-    title: "Secure and Efficient Transactions",
+    title: "Secure and Efficient Solution",
     description:
-      "Our e-commerce systems integrate seamlessly with different brands, offering customers the opportunity to shop using our own cryptocurrencies. With the global crypto trading market projected to reach $3.1 trillion by 2030, our active token serves as the gateway to a new era of shopping.",
+      "Our Mining systems integrate seamlessly with different chains, offering our users the opportunity to generate highest rewards using our own limitless algo. With the TimeTap Mining watches a user can  make a living while staying in the safest ecosystem.",
   },
   {
     id: 3,
     icon: "send",
-    title: "Transparency and Authenticity",
+    title: "High Yeald Solution",
     description:
-      "Exclusive Discounts and Promotions: Holders of TIME tokens enjoy special discounts and promotions when making purchases on our platform, encouraging adoption and usage of the token.",
+      "TimeTap community members get a chance to get return on their investments at the fastest scale in the entire industry. It is a solution that comes with single tap earning module giving the utmost benefits to our users!",
   },
 ];

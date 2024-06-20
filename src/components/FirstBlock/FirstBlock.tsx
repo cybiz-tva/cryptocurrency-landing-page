@@ -16,7 +16,7 @@ export function FirstBlock() {
             <h1 className="text-5xl font-semibold">
               New Era in{" "}
               <span className="block degradedBlue bg-blueLight">
-                Mining
+                Crypto Mining
               </span>{" "}
               with TIMETAP!
             </h1>
