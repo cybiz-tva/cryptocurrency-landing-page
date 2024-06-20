@@ -16,15 +16,15 @@ export function FirstBlock() {
             <h1 className="text-5xl font-semibold">
               New Era in{" "}
               <span className="block degradedBlue bg-blueLight">
-                Ecommerce
+                Mining
               </span>{" "}
-              with TIME!
+              with TIMETAP!
             </h1>
           </Reveal>
 
           <Reveal>
             <p className="max-w-md my-5">
-            A vision to revolutionize e-commerce by integrating cryptocurrency and real quality products.
+            A vision to revolutionize crypto mining by installing smart watches in the ecosystem.
             </p>
           </Reveal>
 
