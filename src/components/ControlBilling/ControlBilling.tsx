@@ -30,7 +30,7 @@ export function ControlBilling() {
             <p className="max-w-md mt-10 text-pretty">
             Our tokenomics is designed to create a vibrant and sustainable 
             ecosystem where TIME tokens act as catalysts for innovation and growth.
-             Join us as we redefine e-commerce with cryptocurrency and unlock new possibilities for global commerce.
+             Join us as we redefine Crypto Mining with Smartwatches and unlock new possibilities for global Revenues.
             </p>
           </Reveal>
         </div>

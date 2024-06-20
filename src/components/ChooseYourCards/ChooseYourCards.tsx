@@ -18,7 +18,7 @@ export function ChooseYourCards() {
           <h2 className="text-5xl font-semibold">
             Our futuristic Roadmap 
             <span className="block degradedBlue bg-blueLight">
-            for future of e-Com and Crypto integration
+            for the future of Crypto Mining
             </span>
           </h2>
         </Reveal>
