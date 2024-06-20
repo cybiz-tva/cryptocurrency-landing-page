@@ -15,8 +15,5 @@ export const dataCards = [
     id: 4,
     image: "/assets/card-4.png",
   },
-  {
-    id: 5,
-    image: "/assets/card-5.png",
-  },
+  
 ];
